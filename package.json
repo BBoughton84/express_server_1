@@ -1,0 +1,27 @@
+{
+  "name": "express_server_1",
+  "version": "1.0.0",
+  "description": "Building an express every day this week, starting on 3/25/2017.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BBoughton84/express_server_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BBoughton84/express_server_1/issues"
+  },
+  "homepage": "https://github.com/BBoughton84/express_server_1#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "knex": "^0.12.9",
+    "node": "0.0.0",
+    "nodemon": "^1.11.0",
+    "pg": "^6.1.5"
+  }
+}
